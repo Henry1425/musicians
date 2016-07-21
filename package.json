@@ -1,0 +1,19 @@
+{
+  "name": "musicians",
+  "version": "1.0.0",
+  "description": "",
+  "main": "musicians.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henry1425/musicians.git"
+  },
+  "author": "Henry Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henry1425/musicians/issues"
+  },
+  "homepage": "https://github.com/Henry1425/musicians#readme"
+}
